@@ -1,0 +1,12 @@
+
+
+
+.chart {
+  height: 500px;
+}
+
+.county {
+	stroke-width: 1;
+	stroke: #FFF;
+	fill: #CCC;
+}
