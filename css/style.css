@@ -1,5 +1,17 @@
 
 
+/*div {
+	outline: 1px solid lightgrey;
+}
+
+*/
+
+
+
+
+
+
+
 .chart-elements {
 	text-align: right;
 }
@@ -82,6 +94,14 @@
 
 .v30 .swatch {
 	background-color: #e31a1c;
+}
+
+
+
+
+.text-here {
+	text-align: left;
+	padding-top: 30px;
 }
 
 
